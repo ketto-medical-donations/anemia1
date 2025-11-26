@@ -5,3 +5,7 @@ numpy
 opencv-python-headless
 scikit-learn
 pickle-mixin
+torch
+torchvision
+
+
